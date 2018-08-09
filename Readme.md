@@ -1,7 +1,9 @@
-#Eric A West
+# Dinesh Pandiyan
 
-This portfolio was based off a template graciously provided to the Github Community by Dinesh Pandiyan.
+This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
 
-It was created as a simple reference page to some of the work I have done, and uses React, Node, Javascript, CSS, and HTML 5. 
+`master` branch has the deploy files. The source code is in `dev` branch [here](https://github.com/flexdinesh/flexdinesh.github.io/tree/dev).
 
--Eric West
+## License
+
+MIT © Dinesh Pandiyan
